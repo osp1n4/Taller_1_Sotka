@@ -16,7 +16,7 @@ Clase Persona
 Clase CuentaBancaria
 
 las 3 siguientes clase son las propuestas.
-Clase Casa 
-Clase Moto
-Clase Estudiante
+Clase Casa,  
+Clase Moto, 
+Clase Estudiante.
 
