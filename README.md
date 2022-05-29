@@ -11,12 +11,18 @@ El nombre de las clases, atributos y métodos deben estar en inglés.
 
 
 las 3 siguenrtes clases son las propuesta por el tutor
+
 Clase Fruta.
+
 Clase Persona
+
 Clase CuentaBancaria
 
 las 3 siguientes clase son las propuestas.
-Clase Casa,  
-Clase Moto, 
-Clase Estudiante.
+
+Clase Casa 
+
+Clase Moto
+
+Clase Estudiante
 
